@@ -1,4 +1,4 @@
-# Java-GUI-Hello-World-Program
+# Java-GUI-Hello-World-Program <img src="https://tenor.com/view/people-man-woman-gif-15398965" alt="User"/>
 A Simple NetBeans GUI Program to that greet the specified name
 
 ## USAGE <br> <br>
